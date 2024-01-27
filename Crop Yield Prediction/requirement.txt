@@ -1,0 +1,7 @@
+Streamlit
+Pickle
+Pandas
+Numpy
+Scikit-Learn
+Matplotlib
+Seaborn
